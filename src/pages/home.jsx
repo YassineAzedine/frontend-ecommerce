@@ -36,17 +36,17 @@ function Home() {
       image: 'https://via.placeholder.com/150',
     },
     {
-      id: 5,
-      name: 'Produit 5',
-      description: 'Description du produit 5',
-      image: 'https://via.placeholder.com/150',
-    },
-    {
-      id: 6,
-      name: 'Produit 6',
-      description: 'Description du produit 6',
-      image: 'https://via.placeholder.com/150',
-    },
+        id: 5,
+        name: 'Produit 5',
+        description: 'Description du produit 5',
+        image: 'https://via.placeholder.com/150',
+      },
+      {
+        id: 6,
+        name: 'Produit 6',
+        description: 'Description du produit 6',
+        image: 'https://via.placeholder.com/150',
+      },
     // Ajoutez d'autres produits ici...
   ];
   
